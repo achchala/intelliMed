@@ -1,0 +1,17 @@
+std_vitals_id,description
+1,Weight
+2,Respiration
+3,BP - Systolic
+4,BP - Diastolic
+5,Temperature
+6,Pulse
+7,Blood Sugar
+8,Height
+9,O2 sats
+10,Pain Level
+11,O2 Concentration
+12,Head Circumference
+13,Head CIR Percentile
+14,O2 Flow Rate
+15,BMI Percentile
+16,WeightForLength PER
