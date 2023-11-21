@@ -2,8 +2,8 @@
 
 ### PointClickCare AI Hackathon Project
 
-AI-powered chatbot leveraging language models to simplify the extraction of data from Electronic Health Record (EHR)
-databases and provide critical insights, streamlining the interaction between health professionals and EHR
+AI-powered chatbot leveraging language models and the LangChain Python library to simplify the extraction of data from Electronic Health Record (EHR)
+databases and provide critical insights. This aims to streamline the interaction between health professionals and electronic health records, and make data access more robust.
 
 ### Next Steps!
 
