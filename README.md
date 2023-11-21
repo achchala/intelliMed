@@ -1,6 +1,6 @@
 # IntelliMed QueryBot
 
-### PointClickCare's AI Hackathon Project
+### PointClickCare AI Hackathon Project
 
 AI-powered chatbot leveraging language models to simplify the extraction of data from Electronic Health Record (EHR)
 databases and provide critical insights, streamlining the interaction between health professionals and EHR
