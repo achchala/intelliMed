@@ -10,6 +10,14 @@ databases and provide critical insights
   - If it's valid, the answer is presented to the user in plain language
   - If it's invalid, LLM uses the feedback to refine the query and repeat the process
 - This solution aims to streamline the interaction between health professionals and electronic health records and make data access more robust
+
+<p align="center">
+  <a href="https://youtu.be/NJLV1SX9dqY" target="_blank">
+    <img src="https://github.com/achchala/intelliMed/assets/54039275/082bbc0f-0928-4ff3-8be6-2fa2b21e8176" alt="Image" width="50%">
+  </a>
+</p>
+
+  
 - Note: This repository does not contain the front-end code, this chatbot functionality was integrated into PointClickCare's CORE web application
 
 ### Next Steps!
